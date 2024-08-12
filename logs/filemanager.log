@@ -1,0 +1,28 @@
+Aug 12, 2024 9:00:17 AM org.example.LoggerUtility logError
+SEVERE: Directory not found: hello
+Aug 12, 2024 9:02:15 AM org.example.LoggerUtility logInfo
+INFO: Created directory: documents
+Aug 12, 2024 9:02:55 AM org.example.LoggerUtility logInfo
+INFO: Created directory: yo
+Aug 12, 2024 9:05:55 AM org.example.LoggerUtility logInfo
+INFO: Created directory: TestDir
+Aug 12, 2024 9:06:32 AM org.example.LoggerUtility logError
+SEVERE: Error copying file: C:\TestDir\file1.txt
+Aug 12, 2024 9:07:50 AM org.example.LoggerUtility logError
+SEVERE: Directory not found: C:\Users\16313\IdeaProjects\regularexpp\regularexp\regular\IOProject\yo
+Aug 12, 2024 9:08:28 AM org.example.LoggerUtility logError
+SEVERE: Directory not found: C:\Users\16313\IdeaProjects\regularexpp\regularexp\regular\IOProject\yo
+Aug 12, 2024 9:08:33 AM org.example.LoggerUtility logError
+SEVERE: Directory not found: C:\Users\16313\IdeaProjects\regularexpp\regularexp\regular\IOProject\yo
+Aug 12, 2024 9:08:52 AM org.example.LoggerUtility logInfo
+INFO: Created directory: C:\TestYo
+Aug 12, 2024 9:16:56 AM org.example.LoggerUtility logInfo
+INFO: Copied file from C:\TestYo\example.txt to C:\TestYo\example_copy.txt
+Aug 12, 2024 9:17:27 AM org.example.LoggerUtility logInfo
+INFO: Moved file from C:\TestYo\example_copy.txt to C:\TestYo\example_moved.txt
+Aug 12, 2024 9:17:48 AM org.example.LoggerUtility logInfo
+INFO: Deleted file: C:\TestYo\example_moved.txt
+Aug 12, 2024 9:18:04 AM org.example.LoggerUtility logInfo
+INFO: Created directory: C:\TestYo\NewDir
+Aug 12, 2024 9:18:51 AM org.example.LoggerUtility logInfo
+INFO: Deleted directory: C:\TestYo\NewDir
